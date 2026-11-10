@@ -1,570 +1,614 @@
-# Privacy Policy for DailyMuse
+<h1>Privacy Policy for DailyMuse</h1>
 
-Last updated: November 02, 2026
+<p>Last updated: November 02, 2026</p>
 
-## Table of Contents
+<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the DailyMuse mobile application (the “Application” or the “Service”) and tells You about Your privacy rights and how the law protects You.</p>
 
-- [Interpretation and Definitions](#interpretation-and-definitions)
-- [Collecting and Using Your Personal Information](#collecting-and-using-your-personal-information)
-- [Advertising](#advertising)
-- [Purchases, Subscriptions and Payments](#purchases-subscriptions-and-payments)
-- [Analytics and Tracking Tools](#analytics-and-tracking-tools)
-- [Retention of Your Personal Data](#retention-of-your-personal-data)
-- [Transfer of Your Personal Data](#transfer-of-your-personal-data)
-- [Delete Your Personal Data](#delete-your-personal-data)
-- [Disclosure of Your Personal Data](#disclosure-of-your-personal-data)
-- [Security of Your Personal Data](#security-of-your-personal-data)
-- [Children’s and Minors’ Privacy](#childrens-and-minors-privacy)
-- [Links to Other Websites](#links-to-other-websites)
-- [GDPR Privacy Notice (EEA, UK and Switzerland)](#gdpr-privacy-notice-eea-uk-and-switzerland)
-- [California Privacy Rights (CCPA/CPRA)](#california-privacy-rights-ccpacpra)
-- [California Online Privacy Protection Act (CalOPPA)](#california-online-privacy-protection-act-caloppa)
-- [Changes to this Privacy Policy](#changes-to-this-privacy-policy)
-- [Contact Us](#contact-us)
+<p>We use Your Personal Data to provide, maintain and improve the Service. We collect, use, and disclose Your information as described in this Privacy Policy and, where required by applicable law, only where We have a valid legal basis to do so, including Your consent where consent is required.</p>
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the DailyMuse mobile application (the “Application” or the “Service”) and tells You about Your privacy rights and how the law protects You.
+<p>By using DailyMuse, You acknowledge that You have read this Privacy Policy. This acknowledgment does not, by itself, constitute consent to processing activities for which separate consent is required by applicable law.</p>
 
-We use Your Personal Data to provide, maintain and improve the Service. We collect, use, and disclose Your information as described in this Privacy Policy and, where required by applicable law, only where We have a valid legal basis to do so, including Your consent where consent is required.
+<h2>Interpretation and Definitions</h2>
 
-By using DailyMuse, You acknowledge that You have read this Privacy Policy. This acknowledgment does not, by itself, constitute consent to processing activities for which separate consent is required by applicable law.
+<h3>Interpretation</h3>
 
-## Interpretation and Definitions
+<p>The words whose initial letters are capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
 
-### Interpretation
+<h3>Definitions</h3>
 
-The words whose initial letters are capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+<p>For the purposes of this Privacy Policy:</p>
 
-### Definitions
+<ul>
+  <li><strong>Account</strong> means a unique account created for You to access Our Service or parts of Our Service.</li>
+  <li><strong>Advertising Partners</strong> means third-party advertising networks, ad exchanges, measurement and attribution providers that serve advertisements or measure advertising performance on or in connection with the Service.</li>
+  <li><strong>Application</strong> refers to DailyMuse, the software program provided by the individual developer responsible for the Service.</li>
+  <li><strong>Company</strong> (referred to as either “the Company”, “We”, “Us” or “Our” in this Privacy Policy) refers to the individual developer and Data Controller responsible for DailyMuse, whose contact details are provided in the “Contact Us” section. DailyMuse is the name of the Application and does not, by itself, represent a separate legal entity.</li>
+  <li><strong>Device</strong> means any device that can access the Service, such as a computer, a cell phone or a digital tablet.</li>
+  <li><strong>Payment Processor</strong> means a third-party company that processes payments made through the Service, including Apple, Google, Stripe and PayPal.</li>
+  <li><strong>Personal Data</strong> (or “Personal Information”) is any information that relates to an identified or identifiable individual. We use “Personal Data” and “Personal Information” interchangeably unless a law uses a specific term.</li>
+  <li><strong>Service</strong> refers to the Application.</li>
+  <li><strong>Service Provider</strong> means any natural or legal person who processes Personal Data on behalf of the Company. It refers to third-party companies or individuals engaged to facilitate the Service, provide the Service on Our behalf, perform services related to the Service or assist Us in analyzing how the Service is used.</li>
+  <li><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself, for example, the duration of a session or interactions with Application features.</li>
+  <li><strong>User</strong> means any individual who accesses or uses the Service.</li>
+  <li><strong>You</strong> means the individual accessing or using the Service.</li>
+</ul>
 
-For the purposes of this Privacy Policy:
+<h2>Collecting and Using Your Personal Information</h2>
 
-- **Account** means a unique account created for You to access Our Service or parts of Our Service.
-- **Advertising Partners** means third-party advertising networks, ad exchanges, measurement and attribution providers that serve advertisements or measure advertising performance on or in connection with the Service.
-- **Application** refers to DailyMuse, the software program provided by the individual developer responsible for the Service.
-- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Privacy Policy) refers to the individual developer and Data Controller responsible for DailyMuse, whose contact details are provided in the “Contact Us” section. DailyMuse is the name of the Application and does not, by itself, represent a separate legal entity.
-- **Device** means any device that can access the Service, such as a computer, a cell phone or a digital tablet.
-- **Payment Processor** means a third-party company that processes payments made through the Service, including Apple, Google, Stripe and PayPal.
-- **Personal Data** (or “Personal Information”) is any information that relates to an identified or identifiable individual. We use “Personal Data” and “Personal Information” interchangeably unless a law uses a specific term.
-- **Service** refers to the Application.
-- **Service Provider** means any natural or legal person who processes Personal Data on behalf of the Company. It refers to third-party companies or individuals engaged to facilitate the Service, provide the Service on Our behalf, perform services related to the Service or assist Us in analyzing how the Service is used.
-- **Usage Data** refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself, for example, the duration of a session or interactions with Application features.
-- **User** means any individual who accesses or uses the Service.
-- **You** means the individual accessing or using the Service.
+<h3>Types of Data Collected</h3>
 
-## Collecting and Using Your Personal Information
+<h4>Personal Data</h4>
 
-### Types of Data Collected
+<p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You.</p>
 
-#### Personal Data
+<p>Personal Data may include:</p>
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You.
+<ul>
+  <li>Email address;</li>
+  <li>First name and last name, if voluntarily provided;</li>
+  <li>Authentication information associated with Your selected login method;</li>
+  <li>Purchase and subscription information, such as which products or plans You bought, the date and amount of the transaction, and the transaction identifier.</li>
+</ul>
 
-Personal Data may include:
+<p>You may create an Account or sign in using:</p>
 
-- Email address;
-- First name and last name, if voluntarily provided;
-- Authentication information associated with Your selected login method;
-- Purchase and subscription information, such as which products or plans You bought, the date and amount of the transaction, and the transaction identifier.
+<ul>
+  <li>Email and password;</li>
+  <li>Sign in with Apple;</li>
+  <li>Google Sign-In.</li>
+</ul>
 
-You may create an Account or sign in using:
+<p>When You use Apple or Google authentication, We may receive information made available by the relevant provider, such as Your email address, name (where available) and authentication identifier.</p>
 
-- Email and password;
-- Sign in with Apple;
-- Google Sign-In.
+<p>We do not receive or store Your Apple or Google account password.</p>
 
-When You use Apple or Google authentication, We may receive information made available by the relevant provider, such as Your email address, name (where available) and authentication identifier.
+<p>We do not require You to provide Your name to create an Account.</p>
 
-We do not receive or store Your Apple or Google account password.
+<h4>Payment Information</h4>
 
-We do not require You to provide Your name to create an Account.
+<p>If You purchase products or services through the Service, payments are processed by Our Payment Processors, including the Apple App Store, Google Play, Stripe or PayPal.</p>
 
-#### Payment Information
+<p>We do not receive or store Your full payment card number, CVV code or other complete payment card credentials.</p>
 
-If You purchase products or services through the Service, payments are processed by Our Payment Processors, including the Apple App Store, Google Play, Stripe or PayPal.
+<p>Our Payment Processors collect and process Your payment details under their own privacy policies. We may receive limited information about the transaction, such as:</p>
 
-We do not receive or store Your full payment card number, CVV code or other complete payment card credentials.
+<ul>
+  <li>Confirmation of payment;</li>
+  <li>Transaction identifier;</li>
+  <li>Payment amount and currency;</li>
+  <li>Date of the transaction;</li>
+  <li>Product or subscription purchased;</li>
+  <li>Payment status;</li>
+  <li>Email address associated with the transaction, where provided.</li>
+</ul>
 
-Our Payment Processors collect and process Your payment details under their own privacy policies. We may receive limited information about the transaction, such as:
+<p>We use this information to confirm purchases, provide access to purchased products or services, manage subscriptions, process refunds and maintain transaction records.</p>
 
-- Confirmation of payment;
-- Transaction identifier;
-- Payment amount and currency;
-- Date of the transaction;
-- Product or subscription purchased;
-- Payment status;
-- Email address associated with the transaction, where provided.
+<h4>Usage Data</h4>
 
-We use this information to confirm purchases, provide access to purchased products or services, manage subscriptions, process refunds and maintain transaction records.
+<p>Usage Data is collected automatically when using the Service.</p>
 
-#### Usage Data
+<p>Usage Data may include information about how You interact with DailyMuse, including:</p>
 
-Usage Data is collected automatically when using the Service.
+<ul>
+  <li>Stories and musical compositions viewed;</li>
+  <li>Content interactions;</li>
+  <li>Features used;</li>
+  <li>App opens and session activity;</li>
+  <li>Advertising impressions and interactions;</li>
+  <li>Other interactions with the Application.</li>
+</ul>
 
-Usage Data may include information about how You interact with DailyMuse, including:
+<p>When You access the Service by or through a mobile device, We and Our Service Providers may collect certain technical information automatically, including:</p>
 
-- Stories and musical compositions viewed;
-- Content interactions;
-- Features used;
-- App opens and session activity;
-- Advertising impressions and interactions;
-- Other interactions with the Application.
+<ul>
+  <li>Your Device’s Internet Protocol address (IP address);</li>
+  <li>Type and model of mobile device;</li>
+  <li>Mobile operating system and its version;</li>
+  <li>Application version;</li>
+  <li>Unique device or application identifiers;</li>
+  <li>Push notification token;</li>
+  <li>Other technical and diagnostic information.</li>
+</ul>
 
-When You access the Service by or through a mobile device, We and Our Service Providers may collect certain technical information automatically, including:
+<p>We may also collect information that Your Device or the Application sends automatically when You access or use the Service.</p>
 
-- Your Device’s Internet Protocol address (IP address);
-- Type and model of mobile device;
-- Mobile operating system and its version;
-- Application version;
-- Unique device or application identifiers;
-- Push notification token;
-- Other technical and diagnostic information.
+<h4>Advertising Data</h4>
 
-We may also collect information that Your Device or the Application sends automatically when You access or use the Service.
+<p>To show, measure and improve advertising, We and Our Advertising Partners may collect or process:</p>
 
-#### Advertising Data
+<ul>
+  <li>Mobile advertising identifiers, such as Apple IDFA or Google Advertising ID, where available and permitted;</li>
+  <li>IP address;</li>
+  <li>Device and operating system information;</li>
+  <li>Information about app installations and advertising campaign attribution;</li>
+  <li>Information about advertisements You see or interact with;</li>
+  <li>Information about Your interactions with the Service;</li>
+  <li>Other technical information used for advertising measurement.</li>
+</ul>
 
-To show, measure and improve advertising, We and Our Advertising Partners may collect or process:
+<p>The specific information collected depends on Your Device, operating system, advertising settings, consent choices and the configuration of the relevant third-party SDKs.</p>
 
-- Mobile advertising identifiers, such as Apple IDFA or Google Advertising ID, where available and permitted;
-- IP address;
-- Device and operating system information;
-- Information about app installations and advertising campaign attribution;
-- Information about advertisements You see or interact with;
-- Information about Your interactions with the Service;
-- Other technical information used for advertising measurement.
+<h3>Tracking Technologies</h3>
 
-The specific information collected depends on Your Device, operating system, advertising settings, consent choices and the configuration of the relevant third-party SDKs.
+<p>We use tracking technologies and similar tools in the Application to track activity and improve Our Service. The technologies We use may include:</p>
 
-### Tracking Technologies
+<ul>
+  <li><strong>Software development kits (SDKs).</strong> Code from analytics, advertising and payment providers that is embedded in the Application and collects data about how the Application is used.</li>
+  <li><strong>Mobile advertising identifiers.</strong> Resettable identifiers assigned to Your Device by its operating system and used for advertising, attribution and measurement.</li>
+  <li><strong>Local storage and application identifiers.</strong> Small amounts of data stored on Your Device, such as Your login session and preferences, and identifiers generated for each installation of the Application.</li>
+</ul>
 
-We use tracking technologies and similar tools in the Application to track activity and improve Our Service. The technologies We use may include:
+<p>We use these technologies for the following purposes:</p>
 
-- **Software development kits (SDKs).** Code from analytics, advertising and payment providers that is embedded in the Application and collects data about how the Application is used.
-- **Mobile advertising identifiers.** Resettable identifiers assigned to Your Device by its operating system and used for advertising, attribution and measurement.
-- **Local storage and application identifiers.** Small amounts of data stored on Your Device, such as Your login session and preferences, and identifiers generated for each installation of the Application.
+<ul>
+  <li><strong>Necessary / Essential:</strong> to authenticate users, maintain the security of the Service and prevent fraudulent use of user accounts.</li>
+  <li><strong>Functionality:</strong> to remember choices You make when using the Service, such as Your login method or language preference.</li>
+  <li><strong>Analytics:</strong> to understand how the Service is used, measure performance and improve it, as described in the “Analytics and Tracking Tools” section below.</li>
+  <li><strong>Advertising:</strong> to deliver and measure advertisements and, where permitted, personalize them, as described in the “Advertising” section below.</li>
+</ul>
 
-We use these technologies for the following purposes:
+<p>Where required by applicable law, We obtain Your consent before enabling non-essential analytics and advertising tracking technologies, including Google Analytics, Google AdMob, Google Ads and Meta SDK.</p>
 
-- **Necessary / Essential:** to authenticate users, maintain the security of the Service and prevent fraudulent use of user accounts.
-- **Functionality:** to remember choices You make when using the Service, such as Your login method or language preference.
-- **Analytics:** to understand how the Service is used, measure performance and improve it, as described in the “Analytics and Tracking Tools” section below.
-- **Advertising:** to deliver and measure advertisements and, where permitted, personalize them, as described in the “Advertising” section below.
+<p>We do not use Personal Data for personalized advertising.</p>
 
-Where required by applicable law, We obtain Your consent before enabling non-essential analytics and advertising tracking technologies, including Google Analytics, Google AdMob, Google Ads and Meta SDK.
+<p>You can change or withdraw Your consent at any time through the Application’s privacy settings.</p>
 
-We do not use Personal Data for personalized advertising.
+<p>On iOS, We also ask for Your permission through Apple’s App Tracking Transparency prompt before accessing the advertising identifier (IDFA).</p>
 
-You can change or withdraw Your consent at any time through the Application’s privacy settings.
+<h3>Use of Your Personal Data</h3>
 
-On iOS, We also ask for Your permission through Apple’s App Tracking Transparency prompt before accessing the advertising identifier (IDFA).
+<p>The Company may use Personal Data for the following purposes:</p>
 
-### Use of Your Personal Data
+<ul>
+  <li><strong>To provide and maintain Our Service</strong>, including to monitor the usage of Our Service, provide access to stories and musical compositions, and ensure the proper functioning of the Application.</li>
+  <li><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</li>
+  <li><strong>For the performance of a contract:</strong> to develop, comply with and undertake the purchase contract for the products, items or services You have purchased or any other contract with Us through the Service.</li>
+  <li><strong>To process payments and manage subscriptions:</strong> to complete Your purchases, confirm transactions, manage subscriptions, issue refunds, prevent payment fraud and keep records required by law.</li>
+  <li><strong>To contact You:</strong> to contact You by email or other electronic communication, including mobile application push notifications regarding updates, security information, new content or other communications related to the Service. We send marketing push notifications only where You have allowed notifications on Your Device and, where applicable law requires, have given Your consent. You can turn off push notifications at any time in Your Device settings or, where available, in the Application’s settings.</li>
+  <li><strong>For marketing and advertising purposes:</strong> to promote Our Service and products, measure the effectiveness of advertising campaigns, measure app installations and work with Advertising Partners to evaluate advertising performance and reach audiences.</li>
+  <li><strong>For analytics:</strong> to analyze how the Service is used, understand user engagement, diagnose technical problems and develop new features.</li>
+  <li><strong>To manage Your requests:</strong> to attend to and manage Your requests to Us.</li>
+  <li><strong>For business transfers:</strong> We may use Your Personal Data to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Data held by Us about Our Service users is among the assets transferred.</li>
+  <li><strong>For other purposes:</strong> We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of Our promotional campaigns, and evaluating and improving Our Service, products, services, marketing and Your experience.</li>
+</ul>
 
-The Company may use Personal Data for the following purposes:
+<p>We do not send SMS messages as part of the DailyMuse Service.</p>
 
-- **To provide and maintain Our Service**, including to monitor the usage of Our Service, provide access to stories and musical compositions, and ensure the proper functioning of the Application.
-- **To manage Your Account:** to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- **For the performance of a contract:** to develop, comply with and undertake the purchase contract for the products, items or services You have purchased or any other contract with Us through the Service.
-- **To process payments and manage subscriptions:** to complete Your purchases, confirm transactions, manage subscriptions, issue refunds, prevent payment fraud and keep records required by law.
-- **To contact You:** to contact You by email or other electronic communication, including mobile application push notifications regarding updates, security information, new content or other communications related to the Service. We send marketing push notifications only where You have allowed notifications on Your Device and, where applicable law requires, have given Your consent. You can turn off push notifications at any time in Your Device settings or, where available, in the Application’s settings.
-- **For marketing and advertising purposes:** to promote Our Service and products, measure the effectiveness of advertising campaigns, measure app installations and work with Advertising Partners to evaluate advertising performance and reach audiences.
-- **For analytics:** to analyze how the Service is used, understand user engagement, diagnose technical problems and develop new features.
-- **To manage Your requests:** to attend to and manage Your requests to Us.
-- **For business transfers:** We may use Your Personal Data to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Data held by Us about Our Service users is among the assets transferred.
-- **For other purposes:** We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of Our promotional campaigns, and evaluating and improving Our Service, products, services, marketing and Your experience.
+<p>We may share Your Personal Data in the following situations:</p>
 
-We do not send SMS messages as part of the DailyMuse Service.
+<ul>
+  <li><strong>With Service Providers:</strong> We may share Your Personal Data with Service Providers to host and maintain the Service, monitor and analyze the use of Our Service, provide authentication, process payments, deliver push notifications, and support Our marketing and advertising activities.</li>
+  <li><strong>With Payment Processors:</strong> to complete transactions, manage subscriptions, process refunds and prevent fraud.</li>
+  <li><strong>With analytics providers:</strong> to analyze Usage Data as described in this Privacy Policy.</li>
+  <li><strong>With Advertising Partners:</strong> to serve contextual advertising and to measure the performance of advertising campaigns and app installations. We do not use Your Personal Data for personalized advertising.</li>
+  <li><strong>For business transfers:</strong> We may share or transfer Your Personal Data in connection with, or during negotiations of, any merger, sale of Company assets, financing or acquisition of all or a portion of Our business to another company.</li>
+  <li><strong>With Your consent:</strong> We may disclose Your Personal Data for any other purpose with Your consent.</li>
+</ul>
 
-We may share Your Personal Data in the following situations:
+<h2>Advertising</h2>
 
-- **With Service Providers:** We may share Your Personal Data with Service Providers to host and maintain the Service, monitor and analyze the use of Our Service, provide authentication, process payments, deliver push notifications, and support Our marketing and advertising activities.
-- **With Payment Processors:** to complete transactions, manage subscriptions, process refunds and prevent fraud.
-- **With analytics providers:** to analyze Usage Data as described in this Privacy Policy.
-- **With Advertising Partners:** to serve contextual advertising and to measure the performance of advertising campaigns and app installations. We do not use Your Personal Data for personalized advertising.
-- **For business transfers:** We may share or transfer Your Personal Data in connection with, or during negotiations of, any merger, sale of Company assets, financing or acquisition of all or a portion of Our business to another company.
-- **With Your consent:** We may disclose Your Personal Data for any other purpose with Your consent.
+<h3>Marketing and Advertising Services</h3>
 
-## Advertising
+<p>We use third-party Service Providers and Advertising Partners for marketing and advertising purposes, for example to promote the Service, run and measure advertising campaigns, measure app installations, evaluate campaign performance and reach new users.</p>
 
-### Marketing and Advertising Services
+<p>These providers may receive or process information such as:</p>
 
-We use third-party Service Providers and Advertising Partners for marketing and advertising purposes, for example to promote the Service, run and measure advertising campaigns, measure app installations, evaluate campaign performance and reach new users.
+<ul>
+  <li>Mobile advertising identifiers;</li>
+  <li>IP address;</li>
+  <li>Device and operating system information;</li>
+  <li>App installation and attribution information;</li>
+  <li>Information about Your interactions with the Service or advertisements.</li>
+</ul>
 
-These providers may receive or process information such as:
+<p>Our current advertising and marketing providers include:</p>
 
-- Mobile advertising identifiers;
-- IP address;
-- Device and operating system information;
-- App installation and attribution information;
-- Information about Your interactions with the Service or advertisements.
+<ul>
+  <li><strong>Google Ads:</strong> used to measure and evaluate the effectiveness of advertising campaigns promoting DailyMuse.</li>
+  <li><strong>Meta SDK:</strong> used to measure app installations and the effectiveness of advertising campaigns conducted through Meta platforms.</li>
+</ul>
 
-Our current advertising and marketing providers include:
+<p>These providers may process information according to their own privacy policies and applicable contractual arrangements.</p>
 
-- **Google Ads:** used to measure and evaluate the effectiveness of advertising campaigns promoting DailyMuse.
-- **Meta SDK:** used to measure app installations and the effectiveness of advertising campaigns conducted through Meta platforms.
+<h3>Ads in the Application</h3>
 
-These providers may process information according to their own privacy policies and applicable contractual arrangements.
+<p>The Application displays contextual advertisements provided by Google AdMob. We do not intend to serve personalized advertisements based on Your interests, browsing behavior or activity across other applications and websites.</p>
 
-### Ads in the Application
+<p>Contextual advertisements are selected based on factors such as the content or general context in which the advertisement is displayed, rather than a personal advertising profile.</p>
 
-The Application displays contextual advertisements provided by Google AdMob. We do not intend to serve personalized advertisements based on Your interests, browsing behavior or activity across other applications and websites.
+<p>We configure Google AdMob to serve non-personalized advertisements. However, Google and other advertising technology providers may still process certain technical information, such as IP addresses, device information and advertising identifiers, to deliver, measure and maintain the security of advertisements, subject to applicable law and Your privacy choices.</p>
 
-Contextual advertisements are selected based on factors such as the content or general context in which the advertisement is displayed, rather than a personal advertising profile.
+<p>Where required by Google’s policies or applicable data protection and ePrivacy laws, We use an appropriate consent management mechanism to obtain and manage Your privacy choices before enabling relevant advertising and analytics technologies.</p>
 
-We configure Google AdMob to serve non-personalized advertisements. However, Google and other advertising technology providers may still process certain technical information, such as IP addresses, device information and advertising identifiers, to deliver, measure and maintain the security of advertisements, subject to applicable law and Your privacy choices.
+<p>We do not show personalized advertising to anyone</p>
 
-Where required by Google’s policies or applicable data protection and ePrivacy laws, We use an appropriate consent management mechanism to obtain and manage Your privacy choices before enabling relevant advertising and analytics technologies.
+<h2>Purchases, Subscriptions and Payments</h2>
 
-We do not show personalized advertising to anyone
+<p>If You pay for products or services through the Service, including one-time purchases and recurring subscriptions, We process Your information to complete the transaction, deliver what You bought, manage Your subscription and provide customer support.</p>
 
-## Purchases, Subscriptions and Payments
+<p>Payments may be handled through:</p>
 
-If You pay for products or services through the Service, including one-time purchases and recurring subscriptions, We process Your information to complete the transaction, deliver what You bought, manage Your subscription and provide customer support.
+<ul>
+  <li>Apple App Store;</li>
+  <li>Google Play;</li>
+  <li>Stripe;</li>
+  <li>PayPal.</li>
+</ul>
 
-Payments may be handled through:
+<p>We do not store full payment card details.</p>
 
-- Apple App Store;
-- Google Play;
-- Stripe;
-- PayPal.
+<p>Our Payment Processors handle payment card information and other sensitive payment credentials according to their own privacy policies and terms.</p>
 
-We do not store full payment card details.
+<p>We may receive transaction information such as the product purchased, amount, date, currency, payment status, transaction identifier and, where available, the email address associated with the payment.</p>
 
-Our Payment Processors handle payment card information and other sensitive payment credentials according to their own privacy policies and terms.
+<p>We keep transaction records for as long as necessary for the purposes described in this Privacy Policy and to meet accounting, tax and other legal obligations.</p>
 
-We may receive transaction information such as the product purchased, amount, date, currency, payment status, transaction identifier and, where available, the email address associated with the payment.
+<p>Subscriptions, renewals and cancellations are managed through the platform or payment method You used to subscribe.</p>
 
-We keep transaction records for as long as necessary for the purposes described in this Privacy Policy and to meet accounting, tax and other legal obligations.
+<p>Deleting Your DailyMuse Account does not automatically cancel subscriptions or recurring payments managed by Apple, Google, Stripe or PayPal. You must cancel active subscriptions through the relevant payment provider.</p>
 
-Subscriptions, renewals and cancellations are managed through the platform or payment method You used to subscribe.
+<h2>Analytics and Tracking Tools</h2>
 
-Deleting Your DailyMuse Account does not automatically cancel subscriptions or recurring payments managed by Apple, Google, Stripe or PayPal. You must cancel active subscriptions through the relevant payment provider.
+<p>We use analytics and tracking tools to understand how the Service is used, measure performance, find and fix errors and improve Our features.</p>
 
-## Analytics and Tracking Tools
+<p>Our analytics provider includes Google Analytics, which in the mobile Application is provided through Google Analytics for Firebase.</p>
 
-We use analytics and tracking tools to understand how the Service is used, measure performance, find and fix errors and improve Our features.
+<p>Google Analytics may collect Usage Data such as:</p>
 
-Our analytics provider includes Google Analytics, which in the mobile Application is provided through Google Analytics for Firebase.
+<ul>
+  <li>App opens;</li>
+  <li>Screens and content viewed;</li>
+  <li>Features used;</li>
+  <li>Session activity;</li>
+  <li>Device and operating system information;</li>
+  <li>Application version;</li>
+  <li>Technical identifiers;</li>
+  <li>Interactions with the Application.</li>
+</ul>
 
-Google Analytics may collect Usage Data such as:
+<p>The exact data collected depends on the analytics configuration and the applicable privacy settings.</p>
 
-- App opens;
-- Screens and content viewed;
-- Features used;
-- Session activity;
-- Device and operating system information;
-- Application version;
-- Technical identifiers;
-- Interactions with the Application.
+<p>Google Analytics processes information according to Google’s applicable terms and privacy policies.</p>
 
-The exact data collected depends on the analytics configuration and the applicable privacy settings.
+<p>We may also use Google Ads and Meta SDK to measure app installations and the effectiveness of advertising campaigns. These services may process app events, device information, advertising identifiers and attribution information, depending on their configuration and Your privacy choices.</p>
 
-Google Analytics processes information according to Google’s applicable terms and privacy policies.
+<p>For more information, please review:</p>
 
-We may also use Google Ads and Meta SDK to measure app installations and the effectiveness of advertising campaigns. These services may process app events, device information, advertising identifiers and attribution information, depending on their configuration and Your privacy choices.
+<ul>
+  <li>Google’s Privacy Policy;</li>
+  <li>Google’s information about how it uses data from sites or apps that use its services;</li>
+  <li>Google’s privacy information for Google Analytics and Firebase;</li>
+  <li>Meta’s Privacy Policy.</li>
+</ul>
 
-For more information, please review:
+<p>You may manage certain advertising and tracking preferences through Your Device settings and the privacy controls made available in the Application.</p>
 
-- Google’s Privacy Policy;
-- Google’s information about how it uses data from sites or apps that use its services;
-- Google’s privacy information for Google Analytics and Firebase;
-- Meta’s Privacy Policy.
+<p>Resetting or limiting Your advertising identifier may restrict certain advertising uses of that identifier but does not necessarily disable all analytics or tracking technologies.</p>
 
-You may manage certain advertising and tracking preferences through Your Device settings and the privacy controls made available in the Application.
+<h2>Retention of Your Personal Data</h2>
 
-Resetting or limiting Your advertising identifier may restrict certain advertising uses of that identifier but does not necessarily disable all analytics or tracking technologies.
+<p>The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.</p>
 
-## Retention of Your Personal Data
+<p>We will retain and use Your Personal Data to the extent necessary to comply with Our legal obligations, resolve disputes and enforce Our legal agreements and policies.</p>
 
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy.
+<p>We apply different retention periods to different categories of Personal Data based on the purpose of processing, technical requirements and applicable legal obligations.</p>
 
-We will retain and use Your Personal Data to the extent necessary to comply with Our legal obligations, resolve disputes and enforce Our legal agreements and policies.
+<p><strong>Account Information</strong></p>
 
-We apply different retention periods to different categories of Personal Data based on the purpose of processing, technical requirements and applicable legal obligations.
+<ul>
+  <li>User account information: retained for the duration of Your Account relationship and deleted or anonymized following account deletion, subject to legal obligations and technical backup retention periods.</li>
+</ul>
 
-**Account Information**
+<p><strong>Customer Support Data</strong></p>
 
-- User account information: retained for the duration of Your Account relationship and deleted or anonymized following account deletion, subject to legal obligations and technical backup retention periods.
+<ul>
+  <li>Support requests and correspondence: retained for as long as necessary to handle Your request, maintain relevant support records and resolve potential disputes.</li>
+</ul>
 
-**Customer Support Data**
+<p><strong>Usage Data</strong></p>
 
-- Support requests and correspondence: retained for as long as necessary to handle Your request, maintain relevant support records and resolve potential disputes.
+<ul>
+  <li>Application usage statistics: retained for as long as necessary to understand feature usage, measure performance and improve the Service, subject to the retention settings of the relevant analytics provider.</li>
+  <li>Server logs and technical information: retained for as long as necessary for security monitoring, troubleshooting, fraud prevention and service maintenance.</li>
+</ul>
 
-**Usage Data**
+<p><strong>Transaction and Payment Records</strong></p>
 
-- Application usage statistics: retained for as long as necessary to understand feature usage, measure performance and improve the Service, subject to the retention settings of the relevant analytics provider.
-- Server logs and technical information: retained for as long as necessary for security monitoring, troubleshooting, fraud prevention and service maintenance.
+<ul>
+  <li>Records of purchases and subscriptions, excluding full payment card details, are retained for the period required by applicable accounting, tax and other legal requirements.</li>
+</ul>
 
-**Transaction and Payment Records**
+<p><strong>Advertising and Analytics Data</strong></p>
 
-- Records of purchases and subscriptions, excluding full payment card details, are retained for the period required by applicable accounting, tax and other legal requirements.
+<ul>
+  <li>Data held in analytics and advertising tools is retained according to the retention settings configured in the relevant tools and the applicable provider’s policies.</li>
+</ul>
 
-**Advertising and Analytics Data**
+<p>We may retain Personal Data beyond the periods described above for the following reasons:</p>
 
-- Data held in analytics and advertising tools is retained according to the retention settings configured in the relevant tools and the applicable provider’s policies.
+<ul>
+  <li><strong>Legal obligation:</strong> We are required by law to retain specific data, for example financial records for tax authorities.</li>
+  <li><strong>Legal claims:</strong> Data is necessary to establish, exercise or defend legal claims.</li>
+  <li><strong>Technical limitations:</strong> Data exists in backup systems that are scheduled for routine deletion.</li>
+</ul>
 
-We may retain Personal Data beyond the periods described above for the following reasons:
+<p>You may request information about how long We will retain Your Personal Data by contacting Us.</p>
 
-- **Legal obligation:** We are required by law to retain specific data, for example financial records for tax authorities.
-- **Legal claims:** Data is necessary to establish, exercise or defend legal claims.
-- **Technical limitations:** Data exists in backup systems that are scheduled for routine deletion.
+<p>When retention periods expire, We securely delete or anonymize Personal Data according to the following procedures:</p>
 
-You may request information about how long We will retain Your Personal Data by contacting Us.
+<ul>
+  <li><strong>Deletion:</strong> Personal Data is removed from Our active systems and is no longer actively processed.</li>
+  <li><strong>Backup retention:</strong> Residual copies may remain in encrypted backups for a limited period consistent with Our backup retention schedule and are not restored except where necessary for security, disaster recovery or legal compliance.</li>
+  <li><strong>Anonymization:</strong> In some cases, We convert Personal Data into anonymous statistical data that cannot reasonably be linked back to You. This anonymized data may be retained for research and analytics.</li>
+</ul>
 
-When retention periods expire, We securely delete or anonymize Personal Data according to the following procedures:
+<h2>Transfer of Your Personal Data</h2>
 
-- **Deletion:** Personal Data is removed from Our active systems and is no longer actively processed.
-- **Backup retention:** Residual copies may remain in encrypted backups for a limited period consistent with Our backup retention schedule and are not restored except where necessary for security, disaster recovery or legal compliance.
-- **Anonymization:** In some cases, We convert Personal Data into anonymous statistical data that cannot reasonably be linked back to You. This anonymized data may be retained for research and analytics.
+<p>Your Personal Data is stored in a database hosted through Supabase in the European Union.</p>
 
-## Transfer of Your Personal Data
+<p>Some of Our Service Providers, including analytics, advertising measurement, authentication, push notification and payment providers (such as Google, Meta, Apple, Stripe and PayPal), may process information in other countries, including the United States.</p>
 
-Your Personal Data is stored in a database hosted through Supabase in the European Union.
+<p>Where required by applicable law, We ensure that such transfers are subject to appropriate safeguards, such as an adequacy decision (for example, the EU–U.S. Data Privacy Framework for certified recipients), Standard Contractual Clauses approved by the European Commission or other legally recognized transfer mechanisms.</p>
 
-Some of Our Service Providers, including analytics, advertising measurement, authentication, push notification and payment providers (such as Google, Meta, Apple, Stripe and PayPal), may process information in other countries, including the United States.
+<p>You may contact Us to request further information about these safeguards.</p>
 
-Where required by applicable law, We ensure that such transfers are subject to appropriate safeguards, such as an adequacy decision (for example, the EU–U.S. Data Privacy Framework for certified recipients), Standard Contractual Clauses approved by the European Commission or other legally recognized transfer mechanisms.
+<h2>Delete Your Personal Data</h2>
 
-You may contact Us to request further information about these safeguards.
+<p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
 
-## Delete Your Personal Data
+<p>Our Service provides You with the ability to delete Your Account directly through the Application settings.</p>
 
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+<p>When You request account deletion:</p>
 
-Our Service provides You with the ability to delete Your Account directly through the Application settings.
+<ul>
+  <li>Your Account will be deleted or deactivated as part of the deletion process;</li>
+  <li>Personal Data associated with Your Account will be deleted or anonymized from Our active systems, subject to applicable legal obligations;</li>
+  <li>Certain transaction records may be retained where required by accounting, tax or other laws;</li>
+  <li>Residual copies may remain in backups for a limited period under Our backup retention procedures.</li>
+</ul>
 
-When You request account deletion:
+<p>You may also contact Us to request access to, correction of or deletion of any Personal Data that You have provided to Us.</p>
 
-- Your Account will be deleted or deactivated as part of the deletion process;
-- Personal Data associated with Your Account will be deleted or anonymized from Our active systems, subject to applicable legal obligations;
-- Certain transaction records may be retained where required by accounting, tax or other laws;
-- Residual copies may remain in backups for a limited period under Our backup retention procedures.
+<p>Please note that deleting Your DailyMuse Account does not automatically cancel subscriptions or recurring payments managed by Apple, Google, Stripe or PayPal. You must cancel such subscriptions through the relevant payment provider.</p>
 
-You may also contact Us to request access to, correction of or deletion of any Personal Data that You have provided to Us.
+<p>We may need to retain certain information where We have a legal obligation or another lawful basis to do so.</p>
 
-Please note that deleting Your DailyMuse Account does not automatically cancel subscriptions or recurring payments managed by Apple, Google, Stripe or PayPal. You must cancel such subscriptions through the relevant payment provider.
+<h2>Disclosure of Your Personal Data</h2>
 
-We may need to retain certain information where We have a legal obligation or another lawful basis to do so.
+<h3>Business Transactions</h3>
 
-## Disclosure of Your Personal Data
+<p>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred.</p>
 
-### Business Transactions
+<p>We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy, where required by applicable law.</p>
 
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred.
+<h3>Law Enforcement</h3>
 
-We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy, where required by applicable law.
+<p>Under certain circumstances, the Company may disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities, such as a court or a government agency.</p>
 
-### Law Enforcement
+<h3>Other Legal Requirements</h3>
 
-Under certain circumstances, the Company may disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities, such as a court or a government agency.
+<p>The Company may disclose Your Personal Data in the good-faith belief that such action is necessary to:</p>
 
-### Other Legal Requirements
+<ul>
+  <li>Comply with a legal obligation;</li>
+  <li>Protect and defend the rights or property of the Company;</li>
+  <li>Prevent or investigate possible wrongdoing in connection with the Service;</li>
+  <li>Protect the personal safety of Users of the Service or the public;</li>
+  <li>Protect against legal liability.</li>
+</ul>
 
-The Company may disclose Your Personal Data in the good-faith belief that such action is necessary to:
+<h2>Security of Your Personal Data</h2>
 
-- Comply with a legal obligation;
-- Protect and defend the rights or property of the Company;
-- Prevent or investigate possible wrongdoing in connection with the Service;
-- Protect the personal safety of Users of the Service or the public;
-- Protect against legal liability.
+<p>The security of Your Personal Data is important to Us.</p>
 
-## Security of Your Personal Data
+<p>We implement reasonable technical and organizational measures designed to protect Your Personal Data against unauthorized access, loss, alteration, disclosure or destruction.</p>
 
-The security of Your Personal Data is important to Us.
+<p>These measures may include access controls, authentication mechanisms, secure infrastructure configuration, encryption where appropriate and other security practices.</p>
 
-We implement reasonable technical and organizational measures designed to protect Your Personal Data against unauthorized access, loss, alteration, disclosure or destruction.
+<p>However, remember that no method of transmission over the Internet or method of electronic storage is 100% secure.</p>
 
-These measures may include access controls, authentication mechanisms, secure infrastructure configuration, encryption where appropriate and other security practices.
+<p>While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
 
-However, remember that no method of transmission over the Internet or method of electronic storage is 100% secure.
+<h2>Children’s and Minors’ Privacy</h2>
 
-While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.
+<p>The Service is intended for users aged 16 and older.</p>
 
-## Children’s and Minors’ Privacy
+<p>The Service is not directed to children under the age of 16, and We do not knowingly collect Personal Information from anyone under the age of 16.</p>
 
-The Service is intended for users aged 16 and older.
+<p>By creating an Account or using the Service, You confirm that You are at least 16 years old.</p>
 
-The Service is not directed to children under the age of 16, and We do not knowingly collect Personal Information from anyone under the age of 16.
+<p>If You are a parent or guardian and You believe Your child under the age of 16 has provided Us with Personal Information, please contact Us.</p>
 
-By creating an Account or using the Service, You confirm that You are at least 16 years old.
+<p>If We become aware that We have collected Personal Information from anyone under the age of 16, We will take reasonable steps to delete that information and, where appropriate, terminate the associated Account.</p>
 
-If You are a parent or guardian and You believe Your child under the age of 16 has provided Us with Personal Information, please contact Us.
+<p>We do not knowingly sell or share the Personal Information of children under the age of 16.</p>
 
-If We become aware that We have collected Personal Information from anyone under the age of 16, We will take reasonable steps to delete that information and, where appropriate, terminate the associated Account.
+<h2>Links to Other Websites</h2>
 
-We do not knowingly sell or share the Personal Information of children under the age of 16.
+<p>Our Service may contain links to other websites that are not operated by Us.</p>
 
-## Links to Other Websites
+<p>If You click on a third-party link, You will be directed to that third party’s site.</p>
 
-Our Service may contain links to other websites that are not operated by Us.
+<p>We strongly advise You to review the Privacy Policy of every site You visit.</p>
 
-If You click on a third-party link, You will be directed to that third party’s site.
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.</p>
 
-We strongly advise You to review the Privacy Policy of every site You visit.
+<h2>GDPR Privacy Notice (EEA, UK and Switzerland)</h2>
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+<p>This section applies to You if You are in the European Economic Area (EEA), the United Kingdom or Switzerland.</p>
 
-## GDPR Privacy Notice (EEA, UK and Switzerland)
+<p>For the purposes of the General Data Protection Regulation (GDPR) and the UK GDPR, the individual identified in the “Contact Us” section is the Data Controller of Your Personal Data.</p>
 
-This section applies to You if You are in the European Economic Area (EEA), the United Kingdom or Switzerland.
+<p>For users in Switzerland, applicable Swiss data protection legislation, including the Swiss Federal Act on Data Protection (FADP), may also apply.</p>
 
-For the purposes of the General Data Protection Regulation (GDPR) and the UK GDPR, the individual identified in the “Contact Us” section is the Data Controller of Your Personal Data.
+<p>Our contact details are set out in the “Contact Us” section.</p>
 
-For users in Switzerland, applicable Swiss data protection legislation, including the Swiss Federal Act on Data Protection (FADP), may also apply.
+<h3>Legal Bases for Processing</h3>
 
-Our contact details are set out in the “Contact Us” section.
+<p>We process Your Personal Data only where We have a legal basis to do so:</p>
 
-### Legal Bases for Processing
+<ul>
+  <li><strong>Contract (Art. 6(1)(b)):</strong> to provide the Service, manage Your Account, authenticate You, process Your purchases and subscriptions, provide access to purchased content and provide customer support.</li>
+  <li><strong>Consent (Art. 6(1)(a)):</strong> where required by applicable law, including for non-essential tracking technologies (such as Google Analytics and Meta SDK), advertising-related tracking, marketing push notifications and analytics activities that require consent under applicable data protection and ePrivacy rules.</li>
+  <li><strong>Legitimate interests (Art. 6(1)(f)):</strong> to keep the Service secure, prevent fraud and abuse, troubleshoot technical issues, understand and improve the Service, maintain operational records and protect Our legal rights, provided that these interests are not overridden by Your rights and freedoms.</li>
+  <li><strong>Legal obligation (Art. 6(1)(c)):</strong> to comply with tax, accounting and other legal requirements and to respond to lawful requests from authorities.</li>
+</ul>
 
-We process Your Personal Data only where We have a legal basis to do so:
+<p>You may withdraw Your consent at any time through the available privacy controls or by contacting Us. Withdrawal does not affect the lawfulness of processing carried out before withdrawal.</p>
 
-- **Contract (Art. 6(1)(b)):** to provide the Service, manage Your Account, authenticate You, process Your purchases and subscriptions, provide access to purchased content and provide customer support.
-- **Consent (Art. 6(1)(a)):** where required by applicable law, including for non-essential tracking technologies (such as Google Analytics and Meta SDK), advertising-related tracking, marketing push notifications and analytics activities that require consent under applicable data protection and ePrivacy rules.
-- **Legitimate interests (Art. 6(1)(f)):** to keep the Service secure, prevent fraud and abuse, troubleshoot technical issues, understand and improve the Service, maintain operational records and protect Our legal rights, provided that these interests are not overridden by Your rights and freedoms.
-- **Legal obligation (Art. 6(1)(c)):** to comply with tax, accounting and other legal requirements and to respond to lawful requests from authorities.
+<h3>Your Rights under the GDPR</h3>
 
-You may withdraw Your consent at any time through the available privacy controls or by contacting Us. Withdrawal does not affect the lawfulness of processing carried out before withdrawal.
+<p>Subject to the conditions in the law, You have the right to:</p>
 
-### Your Rights under the GDPR
+<ul>
+  <li>Access Your Personal Data and receive a copy of it;</li>
+  <li>Rectify inaccurate or incomplete Personal Data;</li>
+  <li>Erase Your Personal Data (the “right to be forgotten”);</li>
+  <li>Restrict the processing of Your Personal Data;</li>
+  <li>Data portability: receive Your Personal Data in a structured, commonly used, machine-readable format and have it transmitted to another controller where technically feasible and legally applicable;</li>
+  <li>Object to processing based on legitimate interests;</li>
+  <li>Object to processing for direct marketing at any time;</li>
+  <li>Withdraw consent at any time where processing is based on consent;</li>
+  <li>Not be subject to solely automated decisions that produce legal or similarly significant effects. We do not intentionally make such decisions as part of the Service.</li>
+</ul>
 
-Subject to the conditions in the law, You have the right to:
+<p>You also have the right to lodge a complaint with a supervisory authority in the country where You live, work or where the alleged infringement took place.</p>
 
-- Access Your Personal Data and receive a copy of it;
-- Rectify inaccurate or incomplete Personal Data;
-- Erase Your Personal Data (the “right to be forgotten”);
-- Restrict the processing of Your Personal Data;
-- Data portability: receive Your Personal Data in a structured, commonly used, machine-readable format and have it transmitted to another controller where technically feasible and legally applicable;
-- Object to processing based on legitimate interests;
-- Object to processing for direct marketing at any time;
-- Withdraw consent at any time where processing is based on consent;
-- Not be subject to solely automated decisions that produce legal or similarly significant effects. We do not intentionally make such decisions as part of the Service.
+<p>A list of EEA supervisory authorities is available from the European Data Protection Board. In the United Kingdom, the relevant authority is the Information Commissioner’s Office.</p>
 
-You also have the right to lodge a complaint with a supervisory authority in the country where You live, work or where the alleged infringement took place.
+<p>To exercise Your rights, contact Us using the details below.</p>
 
-A list of EEA supervisory authorities is available from the European Data Protection Board. In the United Kingdom, the relevant authority is the Information Commissioner’s Office.
+<p>We will respond within one month, which may be extended where permitted by law.</p>
 
-To exercise Your rights, contact Us using the details below.
+<p>We may need to verify Your identity before acting on Your request.</p>
 
-We will respond within one month, which may be extended where permitted by law.
+<h3>International Transfers</h3>
 
-We may need to verify Your identity before acting on Your request.
+<p>Our database and backend infrastructure is hosted through Supabase in the European Union.</p>
 
-### International Transfers
+<p>In addition, some of Our Service Providers, including analytics, advertising, authentication and payment providers, may be located in other countries, including the United States.</p>
 
-Our database and backend infrastructure is hosted through Supabase in the European Union.
+<p>Where We transfer Personal Data outside the EEA, the United Kingdom or Switzerland, We rely on an adequacy decision (such as the EU–U.S. Data Privacy Framework for certified recipients) or on appropriate safeguards, such as the European Commission’s Standard Contractual Clauses or other legally recognized transfer mechanisms, together with supplementary measures where necessary.</p>
 
-In addition, some of Our Service Providers, including analytics, advertising, authentication and payment providers, may be located in other countries, including the United States.
+<p>Where applicable, You may request further information about the safeguards used for international transfers by contacting Us.</p>
 
-Where We transfer Personal Data outside the EEA, the United Kingdom or Switzerland, We rely on an adequacy decision (such as the EU–U.S. Data Privacy Framework for certified recipients) or on appropriate safeguards, such as the European Commission’s Standard Contractual Clauses or other legally recognized transfer mechanisms, together with supplementary measures where necessary.
+<h2>California Privacy Rights (CCPA/CPRA)</h2>
 
-Where applicable, You may request further information about the safeguards used for international transfers by contacting Us.
+<p>This section supplements this Privacy Policy and applies to residents of California, as required by the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (together, the “CCPA”), to the extent the CCPA applies to Us.</p>
 
-## California Privacy Rights (CCPA/CPRA)
+<p>Terms such as “consumer”, “personal information”, “sell” and “share” have the meanings given in the CCPA.</p>
 
-This section supplements this Privacy Policy and applies to residents of California, as required by the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (together, the “CCPA”), to the extent the CCPA applies to Us.
+<h3>Categories of Personal Information We Collect</h3>
 
-Terms such as “consumer”, “personal information”, “sell” and “share” have the meanings given in the CCPA.
+<p>In the preceding 12 months, We may have collected the following categories of personal information, depending on Your use of the Service and the configuration of Our third-party services:</p>
 
-### Categories of Personal Information We Collect
+<ul>
+  <li><strong>Identifiers:</strong> name, email address, IP address, mobile advertising identifiers and device or application identifiers.</li>
+  <li><strong>Customer records and commercial information:</strong> purchase and subscription history, and limited transaction information We receive from Payment Processors.</li>
+  <li><strong>Internet or other electronic network activity:</strong> Usage Data, app interactions and information about interactions with advertisements.</li>
+  <li><strong>Geolocation data:</strong> approximate location derived from IP address, where collected by Our Service Providers.</li>
+  <li><strong>Inferences:</strong> information derived from the above categories about preferences and use of the Service, where such inferences are generated.</li>
+</ul>
 
-In the preceding 12 months, We may have collected the following categories of personal information, depending on Your use of the Service and the configuration of Our third-party services:
+<p>How long We keep each category is described in the “Retention of Your Personal Data” section.</p>
 
-- **Identifiers:** name, email address, IP address, mobile advertising identifiers and device or application identifiers.
-- **Customer records and commercial information:** purchase and subscription history, and limited transaction information We receive from Payment Processors.
-- **Internet or other electronic network activity:** Usage Data, app interactions and information about interactions with advertisements.
-- **Geolocation data:** approximate location derived from IP address, where collected by Our Service Providers.
-- **Inferences:** information derived from the above categories about preferences and use of the Service, where such inferences are generated.
+<p>We do not intentionally collect sensitive personal information as defined in the CCPA for purposes requiring a separate right to limit its use.</p>
 
-How long We keep each category is described in the “Retention of Your Personal Data” section.
+<h3>Sources, Purposes and Disclosures</h3>
 
-We do not intentionally collect sensitive personal information as defined in the CCPA for purposes requiring a separate right to limit its use.
+<p>We collect this information:</p>
 
-### Sources, Purposes and Disclosures
+<ul>
+  <li>Directly from You when You create or manage Your Account;</li>
+  <li>Automatically from Your Device when You use the Service;</li>
+  <li>From authentication providers when You sign in using Apple or Google;</li>
+  <li>From Payment Processors when You make a purchase;</li>
+  <li>From Service Providers, analytics providers and Advertising Partners.</li>
+</ul>
 
-We collect this information:
+<p>We use this information for the business and commercial purposes described in the “Use of Your Personal Data” section.</p>
 
-- Directly from You when You create or manage Your Account;
-- Automatically from Your Device when You use the Service;
-- From authentication providers when You sign in using Apple or Google;
-- From Payment Processors when You make a purchase;
-- From Service Providers, analytics providers and Advertising Partners.
+<p>We may disclose personal information for business purposes to Service Providers, Payment Processors, analytics providers and Advertising Partners, subject to applicable contractual and legal requirements.</p>
 
-We use this information for the business and commercial purposes described in the “Use of Your Personal Data” section.
+<h3>Sale and Sharing of Personal Information</h3>
 
-We may disclose personal information for business purposes to Service Providers, Payment Processors, analytics providers and Advertising Partners, subject to applicable contractual and legal requirements.
+<p>We do not sell personal information in exchange for monetary compensation.</p>
 
-### Sale and Sharing of Personal Information
+<p>However, Our use of advertising and measurement technologies, including Google AdMob, Google Ads and Meta SDK, involves the disclosure of identifiers (such as mobile advertising identifiers and IP address), internet activity data and advertising attribution information to Google and Meta.</p>
 
-We do not sell personal information in exchange for monetary compensation.
+<p>You can opt out of this sharing at any time, as described below. If You opt out, We will stop sharing Your personal information for cross-context behavioral advertising, using the restricted data processing options offered by these providers.</p>
 
-However, Our use of advertising and measurement technologies, including Google AdMob, Google Ads and Meta SDK, involves the disclosure of identifiers (such as mobile advertising identifiers and IP address), internet activity data and advertising attribution information to Google and Meta.
+<p>We do not knowingly sell or share the personal information of consumers under 16 years of age.</p>
 
-You can opt out of this sharing at any time, as described below. If You opt out, We will stop sharing Your personal information for cross-context behavioral advertising, using the restricted data processing options offered by these providers.
+<h3>Your California Privacy Rights</h3>
 
-We do not knowingly sell or share the personal information of consumers under 16 years of age.
+<p>Subject to exceptions, You have the right to:</p>
 
-### Your California Privacy Rights
+<ul>
+  <li>Know what personal information We collect, use, disclose, sell or share, and request a copy of the specific information We hold about You;</li>
+  <li>Delete the personal information We collected from You;</li>
+  <li>Correct inaccurate personal information;</li>
+  <li>Opt out of the sale or sharing of Your personal information;</li>
+  <li>Limit the use and disclosure of sensitive personal information, where applicable;</li>
+  <li>Non-discrimination: We will not deny You the Service, charge You different prices or provide a different level of quality because You exercised Your rights, except as permitted by the CCPA.</li>
+</ul>
 
-Subject to exceptions, You have the right to:
+<p><strong>How to opt out of sale/sharing.</strong></p>
 
-- Know what personal information We collect, use, disclose, sell or share, and request a copy of the specific information We hold about You;
-- Delete the personal information We collected from You;
-- Correct inaccurate personal information;
-- Opt out of the sale or sharing of Your personal information;
-- Limit the use and disclosure of sensitive personal information, where applicable;
-- Non-discrimination: We will not deny You the Service, charge You different prices or provide a different level of quality because You exercised Your rights, except as permitted by the CCPA.
+<p>You may opt out by using the “Do Not Sell or Share My Personal Information” option in the Application’s privacy settings, where available, or by emailing Us at the address provided in the “Contact Us” section with the subject “Do Not Sell or Share.” We will process Your request as soon as feasibly possible and no later than 15 business days after receiving it.</p>
 
-**How to opt out of sale/sharing.**
+<p>Where technically applicable and required by law, We will recognize valid opt-out preference signals, including Global Privacy Control (GPC), and apply them to the relevant browser or consumer profile that We can reasonably associate with the signal.</p>
 
-You may opt out by using the “Do Not Sell or Share My Personal Information” option in the Application’s privacy settings, where available, or by emailing Us at the address provided in the “Contact Us” section with the subject “Do Not Sell or Share.” We will process Your request as soon as feasibly possible and no later than 15 business days after receiving it.
+<p>Resetting or limiting Your mobile advertising identifier may restrict certain advertising uses of that identifier but does not necessarily replace a legally required opt-out mechanism.</p>
 
-Where technically applicable and required by law, We will recognize valid opt-out preference signals, including Global Privacy Control (GPC), and apply them to the relevant browser or consumer profile that We can reasonably associate with the signal.
+<p><strong>How to submit a request.</strong></p>
 
-Resetting or limiting Your mobile advertising identifier may restrict certain advertising uses of that identifier but does not necessarily replace a legally required opt-out mechanism.
+<p>Contact Us by email at the address in the “Contact Us” section with the subject “California Privacy Request.”</p>
 
-**How to submit a request.**
+<p>We will verify and respond to requests within the time limits established by applicable California law.</p>
 
-Contact Us by email at the address in the “Contact Us” section with the subject “California Privacy Request.”
+<p>You may use an authorized agent to submit a request on Your behalf. We may ask for proof of the agent’s authorization.</p>
 
-We will verify and respond to requests within the time limits established by applicable California law.
+<p>If We deny Your request, You may appeal by replying to Our response.</p>
 
-You may use an authorized agent to submit a request on Your behalf. We may ask for proof of the agent’s authorization.
+<p>California’s “Shine the Light” law (Civil Code § 1798.83) permits California residents to request information about disclosures of personal information to third parties for their direct marketing purposes.</p>
 
-If We deny Your request, You may appeal by replying to Our response.
+<p>We do not disclose personal information to third parties for their own direct marketing purposes.</p>
 
-California’s “Shine the Light” law (Civil Code § 1798.83) permits California residents to request information about disclosures of personal information to third parties for their direct marketing purposes.
+<h2>California Online Privacy Protection Act (CalOPPA)</h2>
 
-We do not disclose personal information to third parties for their own direct marketing purposes.
+<p>CalOPPA requires operators of commercial websites and online services that collect personally identifiable information from California residents to post a privacy policy and comply with it.</p>
 
-## California Online Privacy Protection Act (CalOPPA)
+<p>In line with CalOPPA:</p>
 
-CalOPPA requires operators of commercial websites and online services that collect personally identifiable information from California residents to post a privacy policy and comply with it.
+<ul>
+  <li><strong>Policy availability:</strong> This Privacy Policy is available on Our Service and may be accessed through a conspicuous link containing the word “Privacy” on the Application’s download page, its settings or its main screen.</li>
+  <li><strong>Information collected:</strong> The categories of personally identifiable information We collect, and the categories of third parties with whom We may share it, are described in this Privacy Policy.</li>
+  <li><strong>Reviewing and changing Your information:</strong> You can review, update or request deletion of Your information as described in the “Delete Your Personal Data” section and by contacting Us.</li>
+  <li><strong>Notification of changes:</strong> We will notify You of material changes to this Privacy Policy as described in the “Changes to this Privacy Policy” section and will update the “Last updated” date.</li>
+  <li><strong>Do Not Track:</strong> Some browsers offer a “Do Not Track” (DNT) setting. Because there is no uniform standard for responding to DNT signals, the Service does not currently respond to DNT signals. The Service is a mobile application and does not track You through a web browser. For opt-out preference signals, see the “California Privacy Rights” section.</li>
+  <li><strong>Third-party tracking:</strong> Third parties such as Our analytics providers and Advertising Partners may collect information about Your online activities over time and across different websites and apps when You use Our Service, as described in the “Advertising” and “Analytics and Tracking Tools” sections.</li>
+</ul>
 
-In line with CalOPPA:
+<h2>Changes to this Privacy Policy</h2>
 
-- **Policy availability:** This Privacy Policy is available on Our Service and may be accessed through a conspicuous link containing the word “Privacy” on the Application’s download page, its settings or its main screen.
-- **Information collected:** The categories of personally identifiable information We collect, and the categories of third parties with whom We may share it, are described in this Privacy Policy.
-- **Reviewing and changing Your information:** You can review, update or request deletion of Your information as described in the “Delete Your Personal Data” section and by contacting Us.
-- **Notification of changes:** We will notify You of material changes to this Privacy Policy as described in the “Changes to this Privacy Policy” section and will update the “Last updated” date.
-- **Do Not Track:** Some browsers offer a “Do Not Track” (DNT) setting. Because there is no uniform standard for responding to DNT signals, the Service does not currently respond to DNT signals. The Service is a mobile application and does not track You through a web browser. For opt-out preference signals, see the “California Privacy Rights” section.
-- **Third-party tracking:** Third parties such as Our analytics providers and Advertising Partners may collect information about Your online activities over time and across different websites and apps when You use Our Service, as described in the “Advertising” and “Analytics and Tracking Tools” sections.
+<p>We may update Our Privacy Policy from time to time.</p>
 
-## Changes to this Privacy Policy
+<p>We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 
-We may update Our Privacy Policy from time to time.
+<p>We will let You know via email and/or a prominent notice on Our Service prior to the change becoming effective, where appropriate and required by applicable law, and update the “Last updated” date at the top of this Privacy Policy.</p>
 
-We will notify You of any changes by posting the new Privacy Policy on this page.
+<p>You are advised to review this Privacy Policy periodically for any changes.</p>
 
-We will let You know via email and/or a prominent notice on Our Service prior to the change becoming effective, where appropriate and required by applicable law, and update the “Last updated” date at the top of this Privacy Policy.
+<p>Changes to this Privacy Policy are effective when they are posted on this page, unless otherwise stated.</p>
 
-You are advised to review this Privacy Policy periodically for any changes.
+<h2>Contact Us</h2>
 
-Changes to this Privacy Policy are effective when they are posted on this page, unless otherwise stated.
+<p>If You have any questions about this Privacy Policy or wish to exercise Your privacy rights, You can contact Us:</p>
 
-## Contact Us
-
-If You have any questions about this Privacy Policy or wish to exercise Your privacy rights, You can contact Us:
-
-- Data Controller: Vladislav Chadyuk
-- Application: DailyMuse
-- By email: dailymuse.project@gmail.com
+<ul>
+  <li>Data Controller: Vladislav Chadyuk</li>
+  <li>Application: DailyMuse</li>
+  <li>By email: dailymuse.project@gmail.com</li>
+</ul>
